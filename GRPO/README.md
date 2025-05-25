@@ -1,0 +1,1 @@
+Please refer to [EasyR1](https://github.com/hiyouga/EasyR1) for the latest update.
