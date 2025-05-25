@@ -1,0 +1,16 @@
+MAX_PIXELS=1204224 CUDA_VISIBLE_DEVICES=0,1,2,3 NPROC_PER_NODE=4 swift sft \
+  --model_type qwen2_5_vl \
+  --model Qwen/Qwen2.5-VL-7B-Instruct \
+  --freeze_aligner false \
+  --train_type full \
+  --dataset data/Multimodal-Cold-Start.json \
+  --num_train_epochs 3 \
+  --gradient_accumulation_steps 16 \
+  --save_total_limit 2 \
+  --eval_steps 20 \
+  --save_steps 20 \
+  --output_dir output \
+  --system 'sys_prompt.txt' \
+  --gradient_checkpointing_kwargs '{"use_reentrant": false}' \
+  --deepspeed zero2 \
+  --save_only_model true \
