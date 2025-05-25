@@ -85,7 +85,7 @@ Our models are now available on Huggingface.
 
 |  Backbone           | Our model   |
 | ------------------ | ------------- |
-| Qwen2.5-VL-7b  | [Qwen2.5VL-7b-RL-with-Cold-Start](ttps://huggingface.co/WaltonFuture/Qwen2.5VL-7b-RL-with-Cold-Start) |
+| Qwen2.5-VL-7b  | [Qwen2.5VL-7b-RL-with-Cold-Start](https://huggingface.co/WaltonFuture/Qwen2.5VL-7b-RL-with-Cold-Start) |
 | Qwen2.5-VL-3b  | [Qwen2.5VL-3b-RL-with-Cold-Start](https://huggingface.co/WaltonFuture/Qwen2.5VL-3b-RL-with-Cold-Start) |
 
 
