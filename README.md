@@ -2,7 +2,7 @@
 
 
 <p align="center">
-⬇️ <a href="https://huggingface.co/WaltonFuture/Qwen2.5VL-7b-RL-with-Cold-Start" target="_blank">7B Model</a> | ⬇️ <a href="https://huggingface.co/WaltonFuture/Qwen2.5VL-3b-RL-with-Cold-Start" target="_blank">3B Model</a> | 📃 <a href="https://arxiv.org/pdf/2409.13191" target="_blank">Paper</a> <br>
+⬇️ <a href="https://huggingface.co/WaltonFuture/Qwen2.5VL-7b-RL-with-Cold-Start" target="_blank">7B Model</a> | ⬇️ <a href="https://huggingface.co/WaltonFuture/Qwen2.5VL-3b-RL-with-Cold-Start" target="_blank">3B Model</a> | 📃 <a href="https://arxiv.org/pdf/2505.22334" target="_blank">Paper</a> <br>
 </p>
 
 ## Introduction
@@ -100,5 +100,13 @@ Please contact Lai Wei (waltonfuture@sjtu.edu.cn) if needed.
 
 ## Citation
 ```
-
+@misc{wei2025advancingmultimodalreasoningreinforcement,
+      title={Advancing Multimodal Reasoning via Reinforcement Learning with Cold Start}, 
+      author={Lai Wei and Yuting Li and Kaipeng Zheng and Chen Wang and Yue Wang and Linghe Kong and Lichao Sun and Weiran Huang},
+      year={2025},
+      eprint={2505.22334},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2505.22334}, 
+}
 ```
