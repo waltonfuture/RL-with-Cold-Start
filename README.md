@@ -100,13 +100,10 @@ Please contact Lai Wei (waltonfuture@sjtu.edu.cn) if needed.
 
 ## Citation
 ```
-@misc{wei2025advancingmultimodalreasoningreinforcement,
-      title={Advancing Multimodal Reasoning via Reinforcement Learning with Cold Start}, 
-      author={Lai Wei and Yuting Li and Kaipeng Zheng and Chen Wang and Yue Wang and Linghe Kong and Lichao Sun and Weiran Huang},
-      year={2025},
-      eprint={2505.22334},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2505.22334}, 
+@article{wei2025advancing,
+  title={Advancing Multimodal Reasoning via Reinforcement Learning with Cold Start},
+  author={Wei, Lai and Li, Yuting and Zheng, Kaipeng and Wang, Chen and Wang, Yue and Kong, Linghe and Sun, Lichao and Huang, Weiran},
+  journal={arXiv preprint arXiv:2505.22334},
+  year={2025}
 }
 ```
