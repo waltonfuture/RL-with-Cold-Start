@@ -2,7 +2,7 @@
 
 
 <p align="center">
-⬇️ <a href="https://huggingface.co/WaltonFuture/Qwen2.5VL-7b-RL-with-Cold-Start" target="_blank">7B Model</a> | ⬇️ <a href="https://huggingface.co/WaltonFuture/Qwen2.5VL-3b-RL-with-Cold-Start" target="_blank">3B Model</a> | 📃 <a href="https://arxiv.org/pdf/2505.22334" target="_blank">Paper</a> <br>
+⬇️ <a href="https://huggingface.co/WaltonFuture/Qwen2.5VL-7b-RLCS" target="_blank">7B Model</a> | ⬇️ <a href="https://huggingface.co/WaltonFuture/Qwen2.5VL-3b-RLCS" target="_blank">3B Model</a> | 📃 <a href="https://arxiv.org/pdf/2505.22334" target="_blank">Paper</a> <br>
 </p>
 
 ## Introduction
@@ -85,8 +85,8 @@ Our models are now available on Huggingface.
 
 |  Backbone           | Our model   |
 | ------------------ | ------------- |
-| Qwen2.5-VL-7b  | [Qwen2.5VL-7b-RL-with-Cold-Start](https://huggingface.co/WaltonFuture/Qwen2.5VL-7b-RL-with-Cold-Start) |
-| Qwen2.5-VL-3b  | [Qwen2.5VL-3b-RL-with-Cold-Start](https://huggingface.co/WaltonFuture/Qwen2.5VL-3b-RL-with-Cold-Start) |
+| Qwen2.5-VL-7b  | [Qwen2.5VL-7b-RL-with-Cold-Start](https://huggingface.co/WaltonFuture/Qwen2.5VL-7b-RLCS) |
+| Qwen2.5-VL-3b  | [Qwen2.5VL-3b-RL-with-Cold-Start](https://huggingface.co/WaltonFuture/Qwen2.5VL-3b-RLCS) |
 
 
 ## Acknowledgment
