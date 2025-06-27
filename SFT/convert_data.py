@@ -17,7 +17,7 @@ for i, da in tqdm(enumerate(dataset)):
     json_data["response"] = da["answer"]
     imgpath = os.path.join(image_folder, f"{i}.jpg")
     json_data["images"] = [imgpath]
-    da["image"].convert("RGB").save(imgpath)
+    da["images"][0].convert("RGB").save(imgpath)
     converted_data.append(json_data)
 
 with open(json_path, "w") as f:
